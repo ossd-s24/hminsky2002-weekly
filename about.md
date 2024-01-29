@@ -14,6 +14,6 @@ permalink: /about/
   - [punchlove](https://punchlove.net/), developed further by my buddy Joey
 
 ### I'm a college radio dj and have been since I got to NYU. I love WNYU 89.1 fm 
-![me and helen my cohost](images/collegeradiodj.jpeg)
+![me and helen my cohost](/hminsky2002-weekly/images/collegeradiodj.jpeg)
 
 
