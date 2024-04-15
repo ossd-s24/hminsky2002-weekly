@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Jan 28   | [link to my contribution](https://github.com/hminsky2002/ossd/commit/3afa8bad3c106df2fe88948f7629139932588084)    | course website    |   I updated the title of the course website    |
 |   Feb 7  |   [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/53581)  |   freeCodeCamp  |  Fixed a spelling error in one of the curriculum files    |
-| March 30  |  [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/53976) |   freeCodeCamp | Reported a new issue in the issue tracker. There was typo in a git command in a git revert tutorial, I noticed it because I was trying to use this tutorial and the command did not work |
+| March 04 |  [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/53976) |   freeCodeCamp | Reported a new issue in the issue tracker. There was typo in a git command in a git revert tutorial, I noticed it because I was trying to use this tutorial and the command did not work |
